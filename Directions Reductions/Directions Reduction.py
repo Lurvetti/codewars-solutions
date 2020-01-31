@@ -6,10 +6,10 @@ def dirReduc(arr):
     def remove_ops(arr):
         print(arr) #print to see array evolution
         for idx, dir in enumerate(arr): #loop directions
-            try: #this will make sure that we don't have a index problem
+            try: #this will make sure that we don't have an index problem
                 if(dic[dir] == arr[idx+1]): #actual test
                     print('This will be deleted: ' + dir + ' ' + arr[idx+1])
-                    del arr[idx:idx+2] #deletind
+                    del arr[idx:idx+2] #deleting
                     remove_ops(arr) #recursion
             except:
                 return arr #if we reach the end (erro idx), return the final arr
