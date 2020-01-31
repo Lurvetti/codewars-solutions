@@ -1,5 +1,5 @@
 <h3>Directions Reduction - 5 kyu</h3>
-
+https://www.codewars.com/kata/550f22f4d758534c1100025a
 <h4>Once upon a time, on a way through the old wild mountainous west,…</h4>
 … a man was given directions to go from one point to another. The directions were "NORTH", "SOUTH", "WEST", "EAST". Clearly "NORTH" and "SOUTH" are opposite, "WEST" and "EAST" too.
 
