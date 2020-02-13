@@ -1,3 +1,4 @@
+<h3>Valid parenthesis - 5 kyu</h3>
 <div class="markdown" id="description"><p>Write a function called that takes a string of parentheses, and determines if the order of the parentheses is valid. The function should return <code>true</code> if the string is valid, and <code>false</code> if it's invalid.</p>
 <h2 id="examples">Examples</h2>
 <pre><code>"()"              =&gt;  true
